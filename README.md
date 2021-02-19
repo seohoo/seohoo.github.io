@@ -1,2 +1,2 @@
-# gateway
-my page gateway
+# main
+main page
