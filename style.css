@@ -2,8 +2,12 @@ h2 {
   color:dodgerblue; 
   font-weight:bold;
   font-size:30;
-  text-decoration:none
+  text-decoration:none;
 }
 body {
   background: powderblue;
+}
+a {
+  text-decoration:none;
+  color:dodgerblue; 
 }
